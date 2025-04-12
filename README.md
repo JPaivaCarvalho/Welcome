@@ -5,10 +5,13 @@
 Hello, I am João. A self-taught Data Analyst. Python and SQL enthusiast from 🇵🇹 Portugal
 
 ## ✨About Me in 30 Secs
-- Digital Marketing background and I hold a degree in Communication.
-- Love working with numbers and learning new skills.
-- Use Excel for everything
-- My first contact with Data began through dashboards using Google Looker Studio
+• Digital Marketing background and I hold a degree in Communication.
+
+• Love working with numbers and learning new skills.
+
+• Use Excel for everything
+
+• My first contact with Data began through dashboards using Google Looker Studio
 
 ### 👋🏻Connect with Me
-• [Linkedin](https://www.linkedin.com/in/joao-paivacarvalho/)
+  • [Linkedin](https://www.linkedin.com/in/joao-paivacarvalho/)
