@@ -10,5 +10,5 @@ Hello, I am João. A self-taught Data Analyst. Python and SQL enthusiast from �
 - Use Excel for everything
 - My first contact with Data began through dashboards using Google Looker Studio
 
-👋🏻 Connect with Me
+##👋🏻 Connect with Me
 • [Linkedin](https://www.linkedin.com/in/joao-paivacarvalho/)
