@@ -9,12 +9,13 @@ Hello, I am João. A self-taught Data Analyst. Python and SQL enthusiast from �
 
 • Love working with numbers and learning new skills.
 
-• Use Excel for everything
+• Use Excel for everything.
 
-• My first contact with Data began through dashboards using Google Looker Studio
+• My first contact with Data began through dashboards using Google Looker Studio.
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/JPaivaCarvalho/Portfolio/blob/main/Relax_Predicting_User_Adoption_Takehome.ipynb).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/JPaivaCarvalho/Portfolio/tree/main).
 
 ### 👋🏻Connect with Me
-  • [Linkedin](https://www.linkedin.com/in/joao-paivacarvalho/)
+• [Linkedin](https://www.linkedin.com/in/joao-paivacarvalho/)
+ 
